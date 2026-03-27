@@ -1,6 +1,6 @@
 # waterloo-trading-comp
 
-Fair value calculators for the live trading games at WQC's Inaugural Waterloo Trading Competition.
+Fair value calculators/helpers for the live trading games at WQC's Inaugural Waterloo Trading Competition.
 
 ## Calculators
 
